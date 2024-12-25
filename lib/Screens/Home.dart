@@ -7,7 +7,7 @@ import 'package:furniture/Screens/Detail.dart';
 import 'package:furniture/Screens/Profile.dart';
 import 'package:furniture/Screens/Search.dart';
 import 'package:furniture/services/AuthenticationService.dart';
-
+// Home Page UI
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
 
