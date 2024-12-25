@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-// haha
 import 'package:furniture/Screens/Cart.dart';
 import 'package:furniture/Screens/FavoriteScreen.dart';
 import 'package:furniture/Screens/NotificationScreen.dart';
